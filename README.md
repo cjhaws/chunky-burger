@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+
 This project uses [Firebase](https://firebase.google.com/?gclid=EAIaIQobChMIkri90JLv2AIVDJ9-Ch2-egV9EAAYASAAEgJNPfD_BwE) for Hosting and Database.
 
 Below you will find some information on how to perform common tasks.<br>
