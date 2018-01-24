@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) and uses [Firebase](https://firebase.google.com/?gclid=EAIaIQobChMIkri90JLv2AIVDJ9-Ch2-egV9EAAYASAAEgJNPfD_BwE). 
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) and uses [Firebase](https://firebase.google.com/?gclid=EAIaIQobChMIkri90JLv2AIVDJ9-Ch2-egV9EAAYASAAEgJNPfD_BwE) to host the site. 
 
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
